@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roberto De Santis | Christopher Zuber</title>
-    <link>http://example.org/author/roberto-de-santis/</link>
-      <atom:link href="http://example.org/author/roberto-de-santis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://christopherzuber.de/author/roberto-de-santis/</link>
+      <atom:link href="https://christopherzuber.de/author/roberto-de-santis/index.xml" rel="self" type="application/rss+xml" />
     <description>Roberto De Santis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christopher Zuber, 2021.</copyright><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://example.org/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <url>https://christopherzuber.de/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Roberto De Santis</title>
-      <link>http://example.org/author/roberto-de-santis/</link>
+      <link>https://christopherzuber.de/author/roberto-de-santis/</link>
     </image>
     
     <item>
       <title>Firm Investment During Recessions and Recoveries</title>
-      <link>http://example.org/publication/desantiszuber-firm-2021/</link>
+      <link>https://christopherzuber.de/publication/desantiszuber-firm-2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/desantiszuber-firm-2021/</guid>
+      <guid>https://christopherzuber.de/publication/desantiszuber-firm-2021/</guid>
       <description></description>
     </item>
     
