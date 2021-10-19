@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher Zuber</title>
+    <link>http://example.org/author/christopher-zuber/</link>
+      <atom:link href="http://example.org/author/christopher-zuber/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christopher Zuber</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christopher Zuber, 2021.</copyright><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://example.org/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Christopher Zuber</title>
+      <link>http://example.org/author/christopher-zuber/</link>
+    </image>
+    
+    <item>
+      <title>Firm Investment During Recessions and Recoveries</title>
+      <link>http://example.org/publication/desantiszuber-firm-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/desantiszuber-firm-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the Reliability of Potential Output Estimates in Real Time</title>
+      <link>http://example.org/publication/zuber-improving-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/zuber-improving-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of the European Excessive Deficit Procedure on Fiscal Spending Multipliers</title>
+      <link>http://example.org/publication/vespermannzuber-effect-2021/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/vespermannzuber-effect-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recessions and Potential Output: Disentangling Measurement Errors, Supply Shocks, and Hysteresis Effects</title>
+      <link>http://example.org/publication/dovernzuber-recessions-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/dovernzuber-recessions-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How economic crises damage potential output – Evidence from the Great Recession</title>
+      <link>http://example.org/publication/dovernzuber-how-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/dovernzuber-how-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
