@@ -5,12 +5,20 @@
     <link>https://christopherzuber.de/</link>
       <atom:link href="https://christopherzuber.de/index.xml" rel="self" type="application/rss+xml" />
     <description>Christopher Zuber</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christopher Zuber, 2021.</copyright><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christopher Zuber, 2022.</copyright><lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://christopherzuber.de/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Christopher Zuber</title>
       <link>https://christopherzuber.de/</link>
     </image>
+    
+    <item>
+      <title>The Effect of the European Excessive Deficit Procedure on Fiscal Spending Multipliers</title>
+      <link>https://christopherzuber.de/publication/vespermannzuber-effect-2021/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://christopherzuber.de/publication/vespermannzuber-effect-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Firm Investment During Recessions and Recoveries</title>
@@ -25,14 +33,6 @@
       <link>https://christopherzuber.de/publication/zuber-improving-2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://christopherzuber.de/publication/zuber-improving-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Effect of the European Excessive Deficit Procedure on Fiscal Spending Multipliers</title>
-      <link>https://christopherzuber.de/publication/vespermannzuber-effect-2021/</link>
-      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://christopherzuber.de/publication/vespermannzuber-effect-2021/</guid>
       <description></description>
     </item>
     
