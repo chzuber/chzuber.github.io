@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christian Ochsner | Christopher Zuber</title>
+    <link>https://christopherzuber.de/author/christian-ochsner/</link>
+      <atom:link href="https://christopherzuber.de/author/christian-ochsner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christian Ochsner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Christopher Zuber, 2024.</copyright><lastBuildDate>Mon, 19 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://christopherzuber.de/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Christian Ochsner</title>
+      <link>https://christopherzuber.de/author/christian-ochsner/</link>
+    </image>
+    
+    <item>
+      <title>Demographic Aging and Long-Run Economic Growth in Germany</title>
+      <link>https://christopherzuber.de/publication/ochsneretal-demographic-2024/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://christopherzuber.de/publication/ochsneretal-demographic-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Die Konjunkturbereinigung der Schuldenbremse: ein Plädoyer für methodische Reformen</title>
+      <link>https://christopherzuber.de/publication/ochsnerzuber-konjunkturbereinigung-2022/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://christopherzuber.de/publication/ochsnerzuber-konjunkturbereinigung-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
