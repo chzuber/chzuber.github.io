@@ -2,14 +2,14 @@
   "name": "Christopher Zuber",
   "short_name": "Christopher Zuber",
   "lang": "en-us",
-  "theme_color": "#3f51b5",
-  "background_color": "#3f51b5",
+  "theme_color": "#195794",
+  "background_color": "#195794",
   "icons": [{
-    "src": "/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_192x192_fill_lanczos_center_3.png",
+    "src": "/images/icon-custom_hu4aa422ecabe99bae5285351cdef13a37_44316_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png",
+    "src": "/images/icon-custom_hu4aa422ecabe99bae5285351cdef13a37_44316_512x512_fill_lanczos_center_3.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
